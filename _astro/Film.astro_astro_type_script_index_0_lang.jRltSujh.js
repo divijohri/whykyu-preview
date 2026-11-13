@@ -1,0 +1,1 @@
+import"./embed.B8n3SAnL.js";
